@@ -2,7 +2,7 @@
 
 ### 🤖 Aspiring AI/ML Engineer | GenAI & NLP Enthusiast | Full-Stack AI Developer
 
-I'm a final-year **B.Tech Artificial Intelligence & Machine Learning** student at **Vardhaman College of Engineering, Hyderabad**, passionate about building practical AI systems that solve real-world problems.
+I'm a recent B.Tech Artificial Intelligence & Machine Learning graduate from Vardhaman College of Engineering, Hyderabad, passionate about building practical AI systems that solve real-world problems.
 
 🚀 I enjoy working at the intersection of **Machine Learning, NLP, Generative AI, and Backend Development**, turning ideas into end-to-end applications.
 
